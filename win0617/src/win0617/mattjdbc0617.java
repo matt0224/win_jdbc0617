@@ -14,7 +14,7 @@ public class mattjdbc0617 {
 			System.out.println(ee);
 			System.exit(0);
 		}
-		
+		  
 		try{
 			// 2. Connection
 			Connection conn = 
